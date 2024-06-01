@@ -1,4 +1,4 @@
-package com.unique.demo.controller;
+package com.unique.demo.Controller;
 
 import com.unique.demo.model.User;
 import com.unique.demo.service.UserService;
